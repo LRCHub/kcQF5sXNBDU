@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Cinnamon",
+  "base_artist": "キタニタツヤ",
+  "createdAt": "2026-01-13T23:00:37.783104Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Cinnamon Girl",
+      "artist": "Lana Del Rey",
+      "has_synced": true,
+      "path": "select/01_Cinnamon_Girl_Lana_Del_Rey.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Cinnamon Girl - 2009 Remaster",
+      "artist": "Neil Young & Crazy Horse",
+      "has_synced": true,
+      "path": "select/02_Cinnamon_Girl_-_2009_Remaster_Neil_Young_&_Crazy_Horse.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Cinnamon Girl",
+      "artist": "Neil Young with Crazy Horse",
+      "has_synced": true,
+      "path": "select/03_Cinnamon_Girl_Neil_Young_with_Crazy_Horse.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Cinnamon",
+      "artist": "Tiffany",
+      "has_synced": true,
+      "path": "select/04_Cinnamon_Tiffany.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Cinnamon Girl",
+      "artist": "Stacey Q",
+      "has_synced": false,
+      "path": "select/05_Cinnamon_Girl_Stacey_Q.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Cinnamon Girl",
+      "artist": "Neil Young",
+      "has_synced": false,
+      "path": "select/06_Cinnamon_Girl_Neil_Young.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Cinnamon",
+      "artist": "The Cool Kids",
+      "has_synced": false,
+      "path": "select/07_Cinnamon_The_Cool_Kids.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Cinnamon Toast Crunch",
+      "artist": "cupcakKe",
+      "has_synced": false,
+      "path": "select/08_Cinnamon_Toast_Crunch_cupcakKe.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Cinnamon Girl",
+      "artist": "Prince",
+      "has_synced": true,
+      "path": "select/09_Cinnamon_Girl_Prince.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Cinnamon Girl",
+      "artist": "Type O Negative",
+      "has_synced": true,
+      "path": "select/10_Cinnamon_Girl_Type_O_Negative.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Cinnamon Girl (Extended Depression Mix)",
+      "artist": "Type O Negative",
+      "has_synced": false,
+      "path": "select/11_Cinnamon_Girl_(Extended_Depression_Mix)_Type_O_Negative.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "2, Cinnamon Street",
+      "artist": "Roxette",
+      "has_synced": false,
+      "path": "select/12_2,_Cinnamon_Street_Roxette.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Cinnamon Girl",
+      "artist": "Prince",
+      "has_synced": false,
+      "path": "select/13_Cinnamon_Girl_Prince.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Cinnamon Street",
+      "artist": "Roxette",
+      "has_synced": true,
+      "path": "select/14_Cinnamon_Street_Roxette.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Cinnamon",
+      "artist": "Stone Temple Pilots",
+      "has_synced": true,
+      "path": "select/15_Cinnamon_Stone_Temple_Pilots.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "2, Cinnamon Street",
+      "artist": "Roxette",
+      "has_synced": true,
+      "path": "select/16_2,_Cinnamon_Street_Roxette.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Cinnamon",
+      "artist": "キタニタツヤ",
+      "has_synced": false,
+      "path": "select/pl_01_Cinnamon_キタニタツヤ.txt"
+    }
+  ]
+}
